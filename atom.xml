@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Gutoom</title>
+  <icon>https://www.gravatar.com/avatar/0b08c836062f571ce37aa8dada94c577</icon>
+  <subtitle>一个有趣的灵魂</subtitle>
+  <link href="https://github.com/Gutoom/Gutoom.github.io.git/atom.xml" rel="self"/>
   
-  
-  <link href="https://gutoom.github.io/blog/atom.xml" rel="self"/>
-  
-  <link href="https://gutoom.github.io/blog/"/>
+  <link href="https://github.com/Gutoom/Gutoom.github.io.git/"/>
   <updated>2021-03-14T08:30:16.445Z</updated>
-  <id>https://gutoom.github.io/blog/</id>
+  <id>https://github.com/Gutoom/Gutoom.github.io.git/</id>
   
   <author>
     <name>Rain</name>
-    
+    <email>2048105096@qq.com</email>
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
     <title>my-first-blog</title>
-    <link href="https://gutoom.github.io/blog/2021/03/14/my-first-blog/"/>
-    <id>https://gutoom.github.io/blog/2021/03/14/my-first-blog/</id>
+    <link href="https://github.com/Gutoom/Gutoom.github.io.git/2021/03/14/my-first-blog/"/>
+    <id>https://github.com/Gutoom/Gutoom.github.io.git/2021/03/14/my-first-blog/</id>
     <published>2021-03-14T08:30:16.000Z</published>
     <updated>2021-03-14T08:30:16.445Z</updated>
     
@@ -31,8 +31,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://gutoom.github.io/blog/2021/03/14/hello-world/"/>
-    <id>https://gutoom.github.io/blog/2021/03/14/hello-world/</id>
+    <link href="https://github.com/Gutoom/Gutoom.github.io.git/2021/03/14/hello-world/"/>
+    <id>https://github.com/Gutoom/Gutoom.github.io.git/2021/03/14/hello-world/</id>
     <published>2021-03-14T08:15:47.267Z</published>
     <updated>2021-03-14T08:15:47.267Z</updated>
     
